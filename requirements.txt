@@ -2,4 +2,4 @@
  flask
  streamlit
  folium
- geopy.geocoders
+ geopy
