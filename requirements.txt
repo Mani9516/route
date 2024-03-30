@@ -1,5 +1,5 @@
 
-pip install flask
-pip install streamlit
-pip install folium
-pip install geopy.geocoders
+sudo apt install flask
+sudo apt install streamlit
+sudo apt install folium
+sudo apt install geopy.geocoders
