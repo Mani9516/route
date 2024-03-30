@@ -1,0 +1,10 @@
+#installing Flask package
+pip install flask
+#installing Streamlit package
+pip install streamlit
+
+#installing folium package
+pip install folium
+
+#installing geopy.geocoders package
+pip install geopy.geocoders
