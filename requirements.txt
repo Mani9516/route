@@ -1,5 +1,0 @@
-math
-folium
-geopy
-streamlit
-streamlit-folium
