@@ -1,8 +1,0 @@
-git add app.py
-git commit -m "Initial commit"
-git push origin main
-
-pip install flask
-pip install streamlit
-pip install folium
-pip install geopy.geocoders
